@@ -1,7 +1,7 @@
 # <p align="center">Computer Structure</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PYTHON-0696D7?style=for-the-badge&logo=Python&logoColor=yellow">
+<img src="https://img.shields.io/badge/INTEL-0071C5?style=for-the-badge&logo=Intel&logoColor=yellow">
 </p>
 <br/>
 
