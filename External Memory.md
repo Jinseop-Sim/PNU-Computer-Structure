@@ -147,7 +147,7 @@
 
 ## SSD(Solid State Drive) vs HDD
 - HDD보다 훨씬 빠른 속도 (높은 I/O Operation per Second)
-- 수명(Durability)이 HDD보다 짧다. (거의 절반 이하) 
+- 수명(Durability)이 HDD가 더 짧다. (거의 절반 이하) 
 - 배터리가 장착된 RAM과 함께 SSD가 나왔었는데, 시간이 지나며 NVRAM이 등장해 사장되었다.
 - 기계적인 진동이나 충격에 강하다.
 - 저전력으로 구동이 가능하다.
